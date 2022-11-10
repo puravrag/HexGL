@@ -87,7 +87,7 @@ html, body {
   bottom: 5%;
   left: 0;
   z-index: 1;
-  background: url('title.png') no-repeat center top;
+  background: url('titlebase.png') no-repeat center top;
   -moz-background-size: auto 50%;
   -webkit-background-size: auto 50%;
   -ms-background-size: auto 50%;
